@@ -4,4 +4,4 @@ A Gaussian filter is a linear filter. It's usually used to blur the image or to 
 
 # TYPES
 
-There are two types of butterworth filters namely low pass gaussian filter and hugh pass gaussian filter.
+There are two types of gauusian filters namely low pass gaussian filter and hugh pass gaussian filter.
